@@ -28,9 +28,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/eh1pNjbBB7tV8fwFlJ/giphy.gif?cid=ecf05e47yr3fv75ic45578an27zja7xczwbrcx003f9nfgog&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
