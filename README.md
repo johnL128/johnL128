@@ -1,5 +1,4 @@
 <h2 align="left">Hi! Welcome to my GitHub Page!</h2>
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/john-louiehalog" target="_blank">
